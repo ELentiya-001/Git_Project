@@ -1,0 +1,6 @@
+haha
+desktop.ini
+
+#this is a comment line
+# *.txt means all text files in the working directory will be hidden in gitignore
+#
